@@ -29,6 +29,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -CSS
 <br>
 
+Nesse projeto você pode:
+<br>
+-Criar um time com uma cor personalizada
+<br>
+-Criar um card do jogador a sua escolha com uma foto URL em qualquer time
+<br>
+-Excluir qualquer time ou qualquer jogador
+<br>
+-Favoritar o jogador que mais gosta
+<br>
+-Alterar a cor de um time já criado
 
 
 
