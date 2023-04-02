@@ -4,12 +4,10 @@
 
 <h1 align="center">Times ⚽ </h1>
 
-<p align="center">Crie seu time personalizado e adicione os jogadores</p>
+<p>Crie seu time personalizado e adicione os jogadores</p>
 
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/109561452/229377185-6f780cbf-57ed-45f6-a112-6392e55e2091.gif)
-
-
 
 
 
