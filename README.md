@@ -13,9 +13,8 @@
 
 <br>
  
- 
-</p>
-<p align="center">
+
+<p>
 Clique aqui para acessar https://times-react.vercel.app/ 🖱 
 </p>
 
