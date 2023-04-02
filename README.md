@@ -20,8 +20,6 @@ Clique aqui para acessar https://times-react.vercel.app/ 🖱
 
 ## 🛠 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 -React
 <br>
 -JavaScipt
@@ -29,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -CSS
 <br>
 
-Nesse projeto você pode:
+## 👨‍💻 Nesse projeto você pode:
 <br>
 <br>
 -Criar um time com uma cor personalizada
