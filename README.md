@@ -26,8 +26,11 @@ Clique aqui para acessar https://times-react.vercel.app/ 🖱
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -React
+<br>
 -JavaScipt
+<br>
 -CSS
+<br>
 
 
 
