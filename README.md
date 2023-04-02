@@ -8,7 +8,7 @@
 
 
 
-(![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/109561452/229377185-6f780cbf-57ed-45f6-a112-6392e55e2091.gif)
+                                   ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/109561452/229377185-6f780cbf-57ed-45f6-a112-6392e55e2091.gif)
 
 
 
