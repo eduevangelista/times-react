@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto você pode:
 <br>
+<br>
 -Criar um time com uma cor personalizada
 <br>
 -Criar um card do jogador a sua escolha com uma foto URL em qualquer time
